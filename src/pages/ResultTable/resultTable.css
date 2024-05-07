@@ -1,0 +1,19 @@
+.result-table {
+    display: flex;
+    flex-direction: column;
+    padding: 0 50px;
+    min-width: 500px;
+    overflow: auto;
+    h2 {
+        text-align: center;
+    }
+    .total-score {
+        display: flex;
+        justify-content: end;
+        font-size: 22px;
+        margin: 1rem 0;
+        .score {
+            margin-left: 1rem;
+        }
+    }
+}

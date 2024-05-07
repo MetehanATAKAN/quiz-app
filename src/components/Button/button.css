@@ -1,0 +1,12 @@
+button {
+    all: unset;
+    display: block;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: rgb(81, 81, 81);
+    height: 2rem;
+    width: 4rem;
+    padding: 0 5px;
+    text-align: center;
+    cursor: pointer;
+}
